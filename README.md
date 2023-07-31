@@ -1,2 +1,2 @@
 # TOP
-The ODin Project foundations
+The Odin Project foundations
